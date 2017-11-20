@@ -1,5 +1,6 @@
 # Web Share API
 Example of the use of web share api
+
 Support in: [CaniUse](https://caniuse.com/#feat=web-share)
 
 ![Web share - browser](https://github.com/FiliJS/web-share/blob/master/images/web-share-browser.jpg)
