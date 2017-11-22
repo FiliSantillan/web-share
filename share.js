@@ -5,7 +5,7 @@
         let $buttonShare = document.getElementById("button-share");
 
         // Event click to the button
-        $buttonShare.addEventListener("click", (e) => {
+        $buttonShare.addEventListener("click", function(e) {
             e.preventDefault();
 
             // Saving the URL of the link
